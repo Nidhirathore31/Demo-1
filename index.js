@@ -9,3 +9,9 @@ console.log(total)
 
 
 console.log(" second time change ")
+
+
+function show(){
+    console.log(" welcome to function ")
+}
+show()
